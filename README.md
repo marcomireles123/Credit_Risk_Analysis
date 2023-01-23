@@ -1,2 +1,2 @@
 # Credit_Risk_Analysis
-Using machine learning to assess credit risks
+Used supervised machine learning to create models and assess credit risks.
